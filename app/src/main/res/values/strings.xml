@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ny Popular</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="refresh">Refresh</string>
+    <string name="app_full_name">NY Times Most Popular</string>
+    <string name="error_msg_no_connection_warning">Check your internet</string>
+</resources>
